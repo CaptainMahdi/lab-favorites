@@ -38,3 +38,7 @@ while more == False:
         more = True    
 
 print("All done, Thanks for using!")
+print("The catagories you finished with are: ")
+for key, value in favthings.items():
+    print(f"{key}:{value}")
+    print("\n")
