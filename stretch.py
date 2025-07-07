@@ -17,7 +17,7 @@ else:
 # Main loop
 while True:
     if favthings == {}:
-        print("No saved favorite things list found. Starting fresh.")
+        print("Nothing in your list.")
     else:
         print("\nThe categories you have are:")
         for key in favthings.keys():

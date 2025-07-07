@@ -1,0 +1,3 @@
+color: red
+movie: grownups
+food: burger
